@@ -18,6 +18,8 @@ _ReSharper.Caches/
 /Tools/gradle/.project
 /Tools/gradle/.settings/
 /Gradle/
+/builds/
+/Content/3rdparty
 
 # Visual Studio 2015 database file
 *.VC.db
