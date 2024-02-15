@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "MetaHumanLighting",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "LiveLinkControlRig",
@@ -49,24 +39,6 @@
 		{
 			"Name": "LiveLinkCurveDebugUI",
 			"Enabled": true
-		},
-		{
-			"Name": "AppleARKitFaceSupport",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac"
-			]
-		},
-		{
-			"Name": "AppleARKit",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"Win64",
-				"Mac"
-			]
 		}
 	],
 	"TargetPlatforms": [
