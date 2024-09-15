@@ -50,6 +50,21 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "UChatGptPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5d9d4e33aeef4301b0ec21ddd4e01bcc"
+		},
+		{
+			"Name": "SrsPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/41fd13f3865842179ffc9bee62889465"
+		},
+		{
+			"Name": "SpeechGenerationSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5873ab4f73bb4b8f867e0a7f98081d05"
 		}
 	],
 	"TargetPlatforms": [
