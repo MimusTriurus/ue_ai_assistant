@@ -2,7 +2,7 @@
 https://youtu.be/ZNvF_qS1oWY?si=AsMvIE6liRwfhv-H
 
 ## Requirements:
-1. Unreal Engine 5.4
+1. Unreal Engine 5.6
 2. Unreal Metahuman plugin
 3. SpeechRecognitionSystem plugin (https://www.fab.com/listings/96959d66-ab4a-4dc3-b416-385d46982bf8)
 4. SpeechGenerationSystem plugin (https://www.fab.com/ru/listings/82bb7c8a-7d09-4046-a0a1-dfb6ae412c8c)
